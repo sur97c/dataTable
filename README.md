@@ -33,9 +33,9 @@ With the features below:
 
     <h1> Tabla de Datos </h1>
 
-<td>Opciones de encabezado</td>
+Opciones de encabezado
 
-    <table> 
+
 
 Disponible>
           Dato
