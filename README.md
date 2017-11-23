@@ -36,11 +36,22 @@ With the features below:
 Opciones de encabezado
 
 
+ <h1> Tabla de Datos </h1>
 
-Disponible>
-          Dato
-              Tipo
-                 Detalles
+<td>Opciones de encabezado</td>
+
+    <table> 
+
+
+<tr>
+        <td><strong>Disponible</strong> </td>
+           <td><strong>Dato</strong> </td>
+               <td><strong>Tipo</strong> </td>
+                 <td><strong>Detalles</strong> </td>
+</tr>
+     
+
+
 
      
 
