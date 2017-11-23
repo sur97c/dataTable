@@ -31,28 +31,6 @@ With the features below:
     </code>
 
 
-    <h1> Tabla de Datos </h1>
-
-Opciones de encabezado
-
-
- <h1> Tabla de Datos </h1>
-
-<td>Opciones de encabezado</td>
-
-    <table> 
-
-
-<tr>
-        <td><strong>Disponible</strong> </td>
-           <td><strong>Dato</strong> </td>
-               <td><strong>Tipo</strong> </td>
-                 <td><strong>Detalles</strong> </td>
-</tr>
-     
-
-
-
      
 
 
