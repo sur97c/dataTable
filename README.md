@@ -33,7 +33,7 @@ With the features below:
 
 
 
-        <h1>DataTable</h1>
+<h1>DataTable</h1>
 <ul>
         <li>Height</li>
          <li>HeaderOptions</li>
@@ -44,8 +44,7 @@ With the features below:
         <li>RowsDefinition</li>
         <li>PaginationOptions</li>
         <li>Data</li>
-        
-       <ul>
+         <ul>
            
         <h2>HeaderOptions</h2>
 
