@@ -31,6 +31,345 @@ With the features below:
     </code>
 
 
+
+
+        <h1>DataTable</h1>
+<ul>
+        <li>Height</li>
+         <li>HeaderOptions</li>
+           <li>LoadingIndicator</li>
+             <li>SelectableRows</li>
+        <li>ActionsRows</li>
+        <li>ColumnsDefinition</li>
+        <li>RowsDefinition</li>
+        <li>PaginationOptions</li>
+        <li>Data</li>
+        
+       <ul>
+           
+        <h2>HeaderOptions</h2>
+
+    </ul>
+    <table>
+            <table border="1" cellpadding="15" cellspacing="0" width="75%">
+            <tr>
+                 
+                          <th width="10%"scope="col">Available</th>
+                          <th width="10%"scope="col">Data</th>
+                          <th width="10%"scope="col">Type</th>
+                          <th width="10%"scope="col">Details</th>
+                        </tr>
+                
+    <tr>
+
+            <td></td>
+            <td>Title </td>
+             <td>boolean</td>
+             <td>Muestra el titulo en el encabezado de la tabla  "Error en parámetro 'tipo Bandeja'"</td>
+            
+            </tr>
+            
+            <tr>
+                    <td></td>
+                    <td>showColumnsOption</td>
+                    <td>boolean</td>
+                    <td>configura las columnas</td>
+                  </tr>
+            
+                  <tr>
+                        <td></td>
+                        <td> showSearchOption: false,  </td>
+                        <td>boolean</td>
+                        <td></td>
+                      </tr>
+                      <tr>
+                            <td></td>
+                            <td> showRemoveFiltersOption: false,  </td>
+                            <td>boolean</td>
+                            <td></td>
+                          </tr>
+        
+                          <tr>
+                                <td></td>
+                                <td> headerOptions.title </td>
+                                <td></td>
+                                <td></td>
+                              </tr>
+                        </table>
+<h2>SelectableRows</h2>
+
+        <table border="1" cellpadding="15" cellspacing="0" width="75%">
+        <tr>
+             
+                      <th width="10%"scope="col">Available</th>
+                      <th width="10%"scope="col">Data</th>
+                      <th width="10%"scope="col">Type</th>
+                      <th width="10%"scope="col">Details</th>
+
+                      <tr>
+                                <td></td>
+                                <td>show</td>
+                                <td>boolean</td>
+                                <td></td>
+                              </tr>
+
+                              <tr>
+                                        <td></td>
+                                        <td>multiSelect</td>
+                                        <td>boolean</td>
+                                        <td></td>
+                                      </tr>
+
+                                      <tr>
+                                                <td></td>
+                                                <td> allowSelectableAll</td>
+                                                <td></td>
+                                                <td></td>
+                                              </tr>
+                                      
+                    </tr>
+                    </table>
+            
+<tr>
+
+
+     <h2>ActionsRows</h2>  
+     <table border="1" cellpadding="15" cellspacing="0" width="75%">
+                <tr>
+         
+                                <th width="10%"scope="col">Available</th>
+                                <th width="10%"scope="col">Data</th>
+                                <th width="10%"scope="col">Type</th>
+                                <th width="10%"scope="col">Details</th>
+                              </tr>
+                    
+                    
+                    
+                    
+                                    </tr>
+    
+    </table>                 
+                     
+
+                        <h2>ColumnsDefinition</h2>
+
+                        <table border="1" cellpadding="15" cellspacing="0" width="75%">
+                                
+                               
+                                
+                                <tr>
+                                
+                                <th width="10%"scope="col">Attribute</td>
+                                
+                                <th width="10%"scope="col">Element</td>
+                                
+                                <th width="10%"scope="col">Type</td>
+                                <th width="10%"scope="col">Description</td>
+                                        <tr>
+                                                        <td></td>
+                                                      <td>Name</td>
+                                                    <td> </td>
+                                                    <td> </td>
+   
+                                                    <tr>
+                                                                <td></td>
+                                                              <td>displayName</td>
+                                                            <td> </td>
+                                                            <td> </td>
+                                                        </tr>      
+                                                        <tr>
+                                                                        <td></td>
+                                                                      <td>format</td>
+                                                                    <td> </td>
+                                                                    <td> </td>
+                                                                </tr>        
+                                                                tr>
+                                                                <td></td>
+                                                              <td>show</td>
+                                                            <td> </td>
+                                                            <td> </td>
+                                                        </tr>                                                                                 </tr>   
+                                                        <tr>
+                                                        <td></td>
+                                                      <td></td>
+                                                    <td> </td>
+                                                    <td> </td>
+                                                </tr>        
+
+                                
+                                </tr>
+                                
+                                </table>
+
+
+
+
+                        
+                                
+                                                       
+                                
+                             <h2>paginationOptions</h2>  
+     <table>
+         
+            <table border="1" cellpadding="15" cellspacing="0" width="75%">
+                    
+                    
+                                     
+                        <th width="10%"scope="col">Available</th>
+                        <th width="10%"scope="col">Data</th>
+                        <th width="10%"scope="col">Type</th>
+                        <th width="10%"scope="col">Details</th>
+                        <tr>
+                                        <td></td>   
+                                         <td>Show</td>
+                                        <td> </td>
+                                        <td> </td>    
+                                  
+                                </tr>
+                                <tr>
+                                                <td></td>   
+                                                 <td>currentPage</td>
+                                                <td> </td>
+                                                <td> </td>    
+                                          
+                                        </tr>
+                                        <tr>
+                                                        <td></td>   
+                                                         <td> itemsByPage: [
+                                                                        { displayText: "5", value: 5, active: true },
+                                                                        { displayText: "10", value: 10, active: false },
+                                                                        { displayText: "20", value: 20, active: false }
+                                                                    ]</td>
+                                                        <td> </td>
+                                                        <td> </td>    
+                                                  
+                                                </tr>   
+                                                      
+     
+      
+                                                <h2>Self.data</h2>  
+                                                <table>
+                                                    
+                                                       <table border="1" cellpadding="15" cellspacing="0" width="75%">
+                                                               
+                                                               
+                                                                                
+                                                                   <th width="10%"scope="col">Available</th>
+                                                                   <th width="10%"scope="col">Data</th>
+                                                                   <th width="10%"scope="col">Type</th>
+                                                                   <th width="10%"scope="col">Details</th>
+                                                                   <tr>
+     <tr>
+            <td></td>
+          <td>infoFieldName</td>
+        <td> </td>
+        <td> </td>
+    </tr>
+             
+    <tr>
+                <td></td>
+              <td>info</td>
+            <td> </td>
+            <td> </td>
+        </tr>
+
+
+
+    <tr>
+            <td></td>   
+             <td>totalItemsFieldName</td>
+            <td> </td>
+            <td> </td>    
+      
+    </tr>     
+    <tr>    
+    <td></td>
+             <td>ColumnFilter</td>
+             <td> </td>
+             <td> </td>
+                                           
+     </tr>                                     
+                     
+     <tr>    
+            <td></td>
+                     <td>CellTemplate</td>
+                     <td> </td>
+                     <td> </td>
+                                                   
+             </tr>    
+             
+             <tr>    
+                    <td></td>
+                             <td>Return self</td>
+                             <td> </td>
+                             <td> </td>
+                                      
+                             <tr>    
+                                    <td></td>
+                                             <td>console.log(parameters)</td>
+                                             <td> </td>
+                                             <td> </td>
+                            
+                     </tr>   
+                    </table>
+
+<h2>Data</h2>
+<h3>Pagination</h3>
+<table>
+ <tr>
+<td></td>
+<td></td>
+ </tr>
+
+
+
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                     
+        
+        
+               
+                        
+        
+        
+        
+
+
+
+
+
+
+
+
+
+
+
      
 
 
