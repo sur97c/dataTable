@@ -48,9 +48,9 @@ With the features below:
            
   <h2>HeaderOptions</h2>
 
-   
+   <table border="1" cellpadding="15" cellspacing="0" width="75%">
     <table>
-    <table border="1" cellpadding="15" cellspacing="0" width="75%">
+    
     <tr>
                  
      <th width="10%"scope="col">Available</th>
@@ -61,37 +61,37 @@ With the features below:
                 
     <tr>
 
-      <td></td>
-      <td>Title </td>
-      <td>boolean</td>
-      <td>Muestra el titulo en el encabezado de la tabla  "Error en parámetro 'tipo Bandeja'"</td>
+      <th></th>
+      <th>Title </th>
+      <th>boolean</th>
+      <th>Muestra el titulo en el encabezado de la tabla  "Error en parámetro 'tipo Bandeja'"</th>
             
       </tr>
             
       <tr>
-      <td></td>
-      <td>showColumnsOption</td>
-      <td>boolean</td>
-      <td>configura las columnas</td>
+      <th></th>
+      <th>showColumnsOption</th>
+      <th>boolean</th>
+      <th>configura las columnas</th>
       </tr>
             
   <tr>
-  <td></td>
-  <td> showSearchOption: false,  </td>
-  <td>boolean</td>
-  <td></td>
+  <th></th>
+  <th> showSearchOption: false,  </td>
+  <th>boolean</th>
+  <th></th>
   </tr>
   <tr>
-  <td></td>
-  <td> showRemoveFiltersOption: false,  </td>
-  <td>boolean</td>
-  <td></td>
+  <th></th>
+  <th> showRemoveFiltersOption: false,  </th>
+  <th>boolean</th>
+  <th></th>
   </tr>
    
-  <td></td>
-  <td> headerOptions.title </td>
-  <td></td>
-  <td></td>
+  <th></th>
+  <th> headerOptions.title </th>
+  <th></th>
+  <th></th>
   </tr>
   </table>
   
@@ -107,22 +107,22 @@ With the features below:
                       <th width="10%"scope="col">Details</th>
 
  <tr>
-                                <td></td>
-                                <td>show</td>
-                                <td>boolean</td>
-                                <td></td>
+                                <th></th>
+                                <th>show</th>
+                                <th>boolean</th>
+                                <th></th>
                               </tr>
  <tr>
-                                        <td></td>
-                                        <td>multiSelect</td>
-                                        <td>boolean</td>
-                                        <td></td>
+                                        <th></th>
+                                        <th>multiSelect</th>
+                                        <th>boolean</th>
+                                        <th></th>
                                       </tr>
-<tr>
-                                                <td></td>
-                                                <td> allowSelectableAll</td>
-                                                <td></td>
-                                                <td></td>
+<tr
+                                                <th></th>
+                                                <th> allowSelectableAll</th>
+                                                <th></th>
+                                                <th></th>
                                               </tr>
                                       
 </tr>
@@ -163,34 +163,34 @@ With the features below:
     <th width="10%"scope="col">Type</td>
       <th width="10%"scope="col">Description</td>
                                         <tr>
-                                                        <td></td>
-                                                      <td>Name</td>
-                                                    <td> </td>
-                                                    <td> </td>
+                                                        <th></th>
+                                                      <th>Name</th>
+                 <th></th>
+    <th></th>
    
   <tr>
-                                                                <td></td>
-                                                              <td>displayName</td>
-                                                            <td> </td>
+                                                                <th></th>
+                                                              <th>displayName</th>
+                                                            <th></th>
                                                             <td> </td>
                                                         </tr>      
                                                         <tr>
-                                                                        <td></td>
-                                                                      <td>format</td>
-                                                                    <td> </td>
-                                                                    <td> </td>
+                                                                        <th></th>>
+                                                                      <th>format</th>
+                                                                    <th></th>
+                                                                    <th></th>
                                                                 </tr>        
                                                                 tr>
-                                                                <td></td>
-                                                              <td>show</td>
-                                                            <td> </td>
-                                                            <td> </td>
+                                                                <th></th>
+                                                              <th>show</th>
+                                                            <th></th>
+                                                           <th></th>
                                                         </tr>                                                                                 </tr>   
                                                         <tr>
-                                                        <td></td>
-                                                      <td></td>
-                                                    <td> </td>
-                                                    <td> </td>
+                                                        <th></th>
+                                                     <th></th>
+                                                   <th></th>
+                                                   <th></th>
                                                 </tr>        
 
                                 
@@ -217,28 +217,28 @@ With the features below:
                         <th width="10%"scope="col">Type</th>
                         <th width="10%"scope="col">Details</th>
                         <tr>
-                                        <td></td>   
-                                         <td>Show</td>
-                                        <td> </td>
-                                        <td> </td>    
+                                        <th></th>  
+                                         <th>Show</th>
+                                        <th></th>
+                                       <th></th>   
                                   
 </tr>
                                 <tr>
-                                                <td></td>   
-                                                 <td>currentPage</td>
-                                                <td> </td>
-                                                <td> </td>    
+                                                <th></th>   
+                                                 <th>currentPage</th>
+                                                <th></th>
+                                                <th></th>    
                                           
     </tr>
              <tr>
-                 <td></td>   
-                        <td> itemsByPage: [
+                 <th></th>   
+                        <th> itemsByPage: [
                                                                         { displayText: "5", value: 5, active: true },
                                                                         { displayText: "10", value: 10, active: false },
                                                                         { displayText: "20", value: 20, active: false }
-                                                                    ]</td>
-                                                        <td> </td>
-                                                        <td> </td>    
+                                                                    ]</th>
+                                                        <th></th>
+                                                        <th></th>    
                                                   
          </tr>   
                                                       
@@ -257,55 +257,55 @@ With the features below:
                                                                    <th width="10%"scope="col">Details</th>
                                                                    <tr>
      <tr>
-            <td></td>
-          <td>infoFieldName</td>
-        <td> </td>
-        <td> </td>
+            <th></th>
+          <th>infoFieldName</th>
+       <th></th>
+      <th></th>
     </tr>
              
     <tr>
-                <td></td>
-              <td>info</td>
-            <td> </td>
-            <td> </td>
+                <th></th>
+              <th>info</th>
+           <th></th>
+           <th></th>
         </tr>
 
 
 
     <tr>
-            <td></td>   
-             <td>totalItemsFieldName</td>
-            <td> </td>
-            <td> </td>    
+           <th></th>   
+             <th>totalItemsFieldName</th>
+            <th></th>
+            <th></th>   
       
     </tr>     
     <tr>    
-    <td></td>
-             <td>ColumnFilter</td>
-             <td> </td>
-             <td> </td>
+    <th></th>
+             <th>ColumnFilter</th>
+             <th></th>
+             <th></th>
                                            
      </tr>                                     
                      
      <tr>    
-            <td></td>
-                     <td>CellTemplate</td>
-                     <td> </td>
-                     <td> </td>
+           <th></th>
+                     <th>CellTemplate</th>
+                     <th></th>
+                     <th></th>
                                                    
      </tr>    
              
      <tr>    
-                    <td></td>
-                             <td>Return self</td>
-                             <td> </td>
-                             <td> </td>
+                   <th></th>
+                             <th>Return self</th>
+                             <th></th>
+                           <th></th>
                                       
        <tr>    
-                                    <td></td>
-                                             <td>console.log(parameters)</td>
-                                             <td> </td>
-                                             <td> </td>
+                                    <th></th>
+                                             <th>console.log(parameters)</th>
+                                             <th></th>
+                                             <th></th>
                              </tr>   
                     </table>
 
@@ -313,8 +313,8 @@ With the features below:
 <h3>Pagination</h3>
 <table>
  <tr>
-<td></td>
-<td></td>
+<th></th>
+<th></th>
  </tr>
 
 
