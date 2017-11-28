@@ -52,24 +52,24 @@ With the features below:
                  
  <th width="10%"scope="col">Available</th>
  <th width="10%"scope="col">Data</th>
-     <th width="10%"scope="col">Type</th>
-     <th width="10%"scope="col">Details</th>
+ <th width="10%"scope="col">Type</th>
+ <th width="10%"scope="col">Details</th>
                    
-    <tr>
+<tr>
 
-      <th></th>
-      <th>Title </th>
-      <th>boolean</th>
-      <th>Muestra el titulo en el encabezado de la tabla  "Error en parámetro 'tipo Bandeja'"</th>
+ <th></th>
+ <th>Title </th>
+ <th>boolean</th>
+ <th>Muestra el titulo en el encabezado de la tabla  "Error en parámetro 'tipo Bandeja'"</th>
             
-      </tr>
+ </tr>
             
-      <tr>
-      <th></th>
-      <th>showColumnsOption</th>
-      <th>boolean</th>
-      <th>configura las columnas</th>
-      </tr>
+ <tr>
+ <th></th>
+ <th>showColumnsOption</th>
+ <th>boolean</th>
+ <th>configura las columnas</th>
+  </tr>
             
   <tr>
   <th></th>
