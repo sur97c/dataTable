@@ -46,14 +46,14 @@ With the features below:
         <li>Data</li>
          <ul>
            
-        <h2>HeaderOptions</h2>
+  <h2>HeaderOptions</h2>
 
     </ul>
     <table>
             <table border="1" cellpadding="15" cellspacing="0" width="75%">
             <tr>
                  
-                          <th width="10%"scope="col">Available</th>
+     <th width="10%"scope="col">Available</th>
                           <th width="10%"scope="col">Data</th>
                           <th width="10%"scope="col">Type</th>
                           <th width="10%"scope="col">Details</th>
@@ -61,7 +61,7 @@ With the features below:
                 
     <tr>
 
-            <td></td>
+      <td></td>
             <td>Title </td>
              <td>boolean</td>
              <td>Muestra el titulo en el encabezado de la tabla  "Error en parámetro 'tipo Bandeja'"</td>
@@ -75,7 +75,7 @@ With the features below:
                     <td>configura las columnas</td>
                   </tr>
             
-                  <tr>
+  <tr>
                         <td></td>
                         <td> showSearchOption: false,  </td>
                         <td>boolean</td>
@@ -87,9 +87,8 @@ With the features below:
                             <td>boolean</td>
                             <td></td>
                           </tr>
-        
-                          <tr>
-                                <td></td>
+   
+        <td></td>
                                 <td> headerOptions.title </td>
                                 <td></td>
                                 <td></td>
@@ -97,46 +96,43 @@ With the features below:
                         </table>
 <h2>SelectableRows</h2>
 
-        <table border="1" cellpadding="15" cellspacing="0" width="75%">
+ <table border="1" cellpadding="15" cellspacing="0" width="75%">
         <tr>
              
-                      <th width="10%"scope="col">Available</th>
+   <th> width="10%"scope="col">Available</th>
                       <th width="10%"scope="col">Data</th>
                       <th width="10%"scope="col">Type</th>
                       <th width="10%"scope="col">Details</th>
 
-                      <tr>
+ <tr>
                                 <td></td>
                                 <td>show</td>
                                 <td>boolean</td>
                                 <td></td>
                               </tr>
-
-                              <tr>
+ <tr>
                                         <td></td>
                                         <td>multiSelect</td>
                                         <td>boolean</td>
                                         <td></td>
                                       </tr>
-
-                                      <tr>
+<tr>
                                                 <td></td>
                                                 <td> allowSelectableAll</td>
                                                 <td></td>
                                                 <td></td>
                                               </tr>
                                       
-                    </tr>
+</tr>
                     </table>
             
 <tr>
 
 
-     <h2>ActionsRows</h2>  
+ <h2>ActionsRows</h2>  
      <table border="1" cellpadding="15" cellspacing="0" width="75%">
                 <tr>
-         
-                                <th width="10%"scope="col">Available</th>
+          <th width="10%"scope="col">Available</th>
                                 <th width="10%"scope="col">Data</th>
                                 <th width="10%"scope="col">Type</th>
                                 <th width="10%"scope="col">Details</th>
@@ -145,32 +141,32 @@ With the features below:
                     
                     
                     
-                                    </tr>
+      </tr>
     
     </table>                 
                      
 
-                        <h2>ColumnsDefinition</h2>
+    <h2>ColumnsDefinition</h2>
 
-                        <table border="1" cellpadding="15" cellspacing="0" width="75%">
+   <table border="1" cellpadding="15" cellspacing="0" width="75%">
                                 
                                
                                 
-                                <tr>
+  <tr>
                                 
-                                <th width="10%"scope="col">Attribute</td>
+  <th width="10%"scope="col">Attribute</td>
                                 
-                                <th width="10%"scope="col">Element</td>
+   <th width="10%"scope="col">Element</td>
                                 
-                                <th width="10%"scope="col">Type</td>
-                                <th width="10%"scope="col">Description</td>
+    <th width="10%"scope="col">Type</td>
+      <th width="10%"scope="col">Description</td>
                                         <tr>
                                                         <td></td>
                                                       <td>Name</td>
                                                     <td> </td>
                                                     <td> </td>
    
-                                                    <tr>
+  <tr>
                                                                 <td></td>
                                                               <td>displayName</td>
                                                             <td> </td>
@@ -210,11 +206,11 @@ With the features below:
                              <h2>paginationOptions</h2>  
      <table>
          
-            <table border="1" cellpadding="15" cellspacing="0" width="75%">
+ <table border="1" cellpadding="15" cellspacing="0" width="75%">
                     
                     
                                      
-                        <th width="10%"scope="col">Available</th>
+  <th width="10%"scope="col">Available</th>
                         <th width="10%"scope="col">Data</th>
                         <th width="10%"scope="col">Type</th>
                         <th width="10%"scope="col">Details</th>
@@ -224,17 +220,17 @@ With the features below:
                                         <td> </td>
                                         <td> </td>    
                                   
-                                </tr>
+</tr>
                                 <tr>
                                                 <td></td>   
                                                  <td>currentPage</td>
                                                 <td> </td>
                                                 <td> </td>    
                                           
-                                        </tr>
-                                        <tr>
-                                                        <td></td>   
-                                                         <td> itemsByPage: [
+    </tr>
+             <tr>
+                 <td></td>   
+                        <td> itemsByPage: [
                                                                         { displayText: "5", value: 5, active: true },
                                                                         { displayText: "10", value: 10, active: false },
                                                                         { displayText: "20", value: 20, active: false }
@@ -242,19 +238,19 @@ With the features below:
                                                         <td> </td>
                                                         <td> </td>    
                                                   
-                                                </tr>   
+         </tr>   
                                                       
      
       
-                                                <h2>Self.data</h2>  
-                                                <table>
+         <h2>Self.data</h2>  
+              <table>
                                                     
-                                                       <table border="1" cellpadding="15" cellspacing="0" width="75%">
+           <table border="1" cellpadding="15" cellspacing="0" width="75%">
                                                                
                                                                
                                                                                 
-                                                                   <th width="10%"scope="col">Available</th>
-                                                                   <th width="10%"scope="col">Data</th>
+          <th width="10%"scope="col">Available</th>
+                      <th width="10%"scope="col">Data</th>
                                                                    <th width="10%"scope="col">Type</th>
                                                                    <th width="10%"scope="col">Details</th>
                                                                    <tr>
@@ -295,21 +291,20 @@ With the features below:
                      <td> </td>
                      <td> </td>
                                                    
-             </tr>    
+     </tr>    
              
-             <tr>    
+     <tr>    
                     <td></td>
                              <td>Return self</td>
                              <td> </td>
                              <td> </td>
                                       
-                             <tr>    
+       <tr>    
                                     <td></td>
                                              <td>console.log(parameters)</td>
                                              <td> </td>
                                              <td> </td>
-                            
-                     </tr>   
+                             </tr>   
                     </table>
 
 <h2>Data</h2>
