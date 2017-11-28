@@ -50,50 +50,51 @@ With the features below:
 
     </ul>
     <table>
-            <table border="1" cellpadding="15" cellspacing="0" width="75%">
-            <tr>
+    <table border="1" cellpadding="15" cellspacing="0" width="75%">
+    <tr>
                  
      <th width="10%"scope="col">Available</th>
-                          <th width="10%"scope="col">Data</th>
-                          <th width="10%"scope="col">Type</th>
-                          <th width="10%"scope="col">Details</th>
-                        </tr>
+     <th width="10%"scope="col">Data</th>
+     <th width="10%"scope="col">Type</th>
+     <th width="10%"scope="col">Details</th>
+     </tr>
                 
     <tr>
 
       <td></td>
-            <td>Title </td>
-             <td>boolean</td>
-             <td>Muestra el titulo en el encabezado de la tabla  "Error en parámetro 'tipo Bandeja'"</td>
+      <td>Title </td>
+      <td>boolean</td>
+      <td>Muestra el titulo en el encabezado de la tabla  "Error en parámetro 'tipo Bandeja'"</td>
             
-            </tr>
+      </tr>
             
-            <tr>
-                    <td></td>
-                    <td>showColumnsOption</td>
-                    <td>boolean</td>
-                    <td>configura las columnas</td>
-                  </tr>
+      <tr>
+      <td></td>
+      <td>showColumnsOption</td>
+      <td>boolean</td>
+      <td>configura las columnas</td>
+      </tr>
             
   <tr>
-                        <td></td>
-                        <td> showSearchOption: false,  </td>
-                        <td>boolean</td>
-                        <td></td>
-                      </tr>
-                      <tr>
-                            <td></td>
-                            <td> showRemoveFiltersOption: false,  </td>
-                            <td>boolean</td>
-                            <td></td>
-                          </tr>
+  <td></td>
+  <td> showSearchOption: false,  </td>
+  <td>boolean</td>
+  <td></td>
+  </tr>
+  <tr>
+  <td></td>
+  <td> showRemoveFiltersOption: false,  </td>
+  <td>boolean</td>
+  <td></td>
+  </tr>
    
-        <td></td>
-                                <td> headerOptions.title </td>
-                                <td></td>
-                                <td></td>
-                              </tr>
-                        </table>
+  <td></td>
+  <td> headerOptions.title </td>
+  <td></td>
+  <td></td>
+  </tr>
+  </table>
+  
 <h2>SelectableRows</h2>
 
  <table border="1" cellpadding="15" cellspacing="0" width="75%">
