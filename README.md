@@ -48,7 +48,7 @@ With the features below:
            
   <h2>HeaderOptions</h2>
 
-    </ul>
+   
     <table>
     <table border="1" cellpadding="15" cellspacing="0" width="75%">
     <tr>
