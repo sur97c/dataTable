@@ -92,34 +92,32 @@ With the features below:
   </table>
   
 <h2>SelectableRows</h2>
-
-
- <table border="1" cellpadding="15" cellspacing="0" width="75%">
-        <tr>
-             
-   <th> width="10%"scope="col">Available</th>
-                      <th width="10%"scope="col">Data</th>
-                      <th width="10%"scope="col">Type</th>
-                      <th width="10%"scope="col">Details</th>
+<table>
+<table border="1" cellpadding="15" cellspacing="0" width="75%">
+       
+<th width="10%"scope="col">Available</th>
+<th width="10%"scope="col">Data</th>
+<th width="10%"scope="col">Type</th>
+<th width="10%"scope="col">Details</th>
 
  <tr>
-                                <th></th>
-                                <th>show</th>
-                                <th>boolean</th>
-                                <th></th>
-                              </tr>
+ <th></th>
+ <th>show</th>
+ <th>boolean</th>
+ <th></th>
+ </tr>
  <tr>
-                                        <th></th>
-                                        <th>multiSelect</th>
-                                        <th>boolean</th>
-                                        <th></th>
-                                      </tr>
+ <th></th>
+ <th>multiSelect</th>
+ <th>boolean</th>
+ <th></th>
+ </tr>
 <tr
-                                                <th></th>
-                                                <th> allowSelectableAll</th>
-                                                <th></th>
-                                                <th></th>
-                                              </tr>
+ <th></th>
+ <th> allowSelectableAll</th>
+ <th></th>
+ <th></th>
+ </tr>
                                       
 </tr>
                     </table>
