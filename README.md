@@ -126,54 +126,47 @@ With the features below:
 
 
  <h2>ActionsRows</h2>  
-     <table border="1" cellpadding="15" cellspacing="0" width="75%">
-                <tr>
-          <th width="10%"scope="col">Available</th>
-                                <th width="10%"scope="col">Data</th>
-                                <th width="10%"scope="col">Type</th>
-                                <th width="10%"scope="col">Details</th>
-                              </tr>
-                    
-                    
-                    
-                    
-      </tr>
-    
-    </table>                 
+ <table>
+ <table border="1" cellpadding="15" cellspacing="0" width="75%">
+               
+ <th width="10%"scope="col">Available</th>
+ <th width="10%"scope="col">Data</th>
+ <th width="10%"scope="col">Type</th>
+ <th width="10%"scope="col">Details</th>
+ </tr>
+ </table>                 
                      
 
-    <h2>ColumnsDefinition</h2>
+ <h2>ColumnsDefinition</h2>
+ <table>
 
-   <table border="1" cellpadding="15" cellspacing="0" width="75%">
-                                
-                               
-                                
-  <tr>
-                                
+  <table border="1" cellpadding="15" cellspacing="0" width="75%">
+                                                               
   <th width="10%"scope="col">Attribute</td>
                                 
-   <th width="10%"scope="col">Element</td>
-                                
-    <th width="10%"scope="col">Type</td>
-      <th width="10%"scope="col">Description</td>
-                                        <tr>
-                                                        <th></th>
-                                                      <th>Name</th>
-                 <th></th>
-    <th></th>
+ <th width="10%"scope="col">Element</td>
+ <th width="10%"scope="col">Type</td>
+ <th width="10%"scope="col">Description</td>
+ <tr>
+ <th></th>
+ <th>Name</th>
+ <th></th>
+ <th></th>
+    </tr>
    
   <tr>
-                                                                <th></th>
-                                                              <th>displayName</th>
-                                                            <th></th>
-                                                            <td> </td>
-                                                        </tr>      
-                                                        <tr>
-                                                                        <th></th>>
-                                                                      <th>format</th>
-                                                                    <th></th>
-                                                                    <th></th>
-                                                                </tr>        
+ <th></th>
+ <th>displayName</th>
+ <th></th>
+ <th> </th> 
+
+</tr>      
+<tr>
+ <th></th>>
+ <th>format</th>
+ <th></th>
+ <th></th>
+ </tr>        
                                                                 tr>
                                                                 <th></th>
                                                               <th>show</th>
