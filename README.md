@@ -47,17 +47,14 @@ With the features below:
          <ul>
            
   <h2>HeaderOptions</h2>
-<ul>
     <table>
    <table border="1" cellpadding="15" cellspacing="0" width="75%">
-    <tr>
                  
  <th width="10%"scope="col">Available</th>
  <th width="10%"scope="col">Data</th>
      <th width="10%"scope="col">Type</th>
      <th width="10%"scope="col">Details</th>
-     </tr>
-                
+                   
     <tr>
 
       <th></th>
