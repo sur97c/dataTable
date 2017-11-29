@@ -142,19 +142,18 @@ With the features below:
 
   <table border="1" cellpadding="15" cellspacing="0" width="75%">
                                                                
-  <th width="10%"scope="col">Attribute</td>
-                                
- <th width="10%"scope="col">Element</td>
- <th width="10%"scope="col">Type</td>
- <th width="10%"scope="col">Description</td>
+ <th width="10%"scope="col">Attribute</th>
+ <th width="10%"scope="col">Element</th>
+ <th width="10%"scope="col">Type</th>
+ <th width="10%"scope="col">Description</th>
  <tr>
  <th></th>
  <th>Name</th>
  <th></th>
  <th></th>
-    </tr>
+ </tr>
    
-  <tr>
+ <tr>
  <th></th>
  <th>displayName</th>
  <th></th>
@@ -167,32 +166,21 @@ With the features below:
  <th></th>
  <th></th>
  </tr>        
-                                                                tr>
-                                                                <th></th>
-                                                              <th>show</th>
-                                                            <th></th>
-                                                           <th></th>
-                                                        </tr>                                                                                 </tr>   
-                                                        <tr>
-                                                        <th></th>
-                                                     <th></th>
-                                                   <th></th>
-                                                   <th></th>
-                                                </tr>        
-
-                                
-                                </tr>
-                                
-                                </table>
-
-
-
-
-                        
-                                
-                                                       
-                                
-                             <h2>paginationOptions</h2>  
+ <tr>
+ <th></th>
+ <th>show</th>
+ <th></th>
+ <th></th>
+ </tr>            
+ <tr>
+ <th></th>
+ <th></th>
+ <th></th>
+ <th></th>
+ </tr>  
+ 
+ 
+ <h2>paginationOptions</h2>  
      <table>
          
  <table border="1" cellpadding="15" cellspacing="0" width="75%">
