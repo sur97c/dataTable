@@ -205,73 +205,64 @@ With the features below:
 </tr>
 <tr>
 <th></th>   
-<th> itemsByPage { displayText: "5", value: 5, active: true },
-{ displayText: "10", value: 10, active: false },
-{ displayText: "20", value: 20, active: false }]</th>
+<th> itemsByPage</th>
 <th></th>
 <th></th>    
 </tr>   
 
 <h2>Self.data</h2>  
 <table>
-                                                    
+                                                  
 <table border="1" cellpadding="15" cellspacing="0" width="75%">
 <th width="10%"scope="col">Available</th>
-                      <th width="10%"scope="col">Data</th>
-                                                                   <th width="10%"scope="col">Type</th>
-                                                                   <th width="10%"scope="col">Details</th>
-                                                                   <tr>
-     <tr>
-            <th></th>
-          <th>infoFieldName</th>
-       <th></th>
-      <th></th>
-    </tr>
+<th width="10%"scope="col">Data</th>
+<th width="10%"scope="col">Type</th>
+<th width="10%"scope="col">Details</th>
+                                                                   
+ <tr>
+<th></th>
+<th>infoFieldName</th>
+<th></th>
+<th></th>
+</tr>
              
-    <tr>
-                <th></th>
-              <th>info</th>
-           <th></th>
-           <th></th>
-        </tr>
-
-
-
-    <tr>
-           <th></th>   
-             <th>totalItemsFieldName</th>
-            <th></th>
-            <th></th>   
-      
-    </tr>     
-    <tr>    
-    <th></th>
-             <th>ColumnFilter</th>
-             <th></th>
-             <th></th>
-                                           
-     </tr>                                     
-                     
-     <tr>    
-           <th></th>
-                     <th>CellTemplate</th>
-                     <th></th>
-                     <th></th>
-                                                   
-     </tr>    
+<tr>
+<th></th>
+<th>info</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<th></th>   
+<th>totalItemsFieldName</th>
+<th></th>
+<th></th>   
+</tr>     
+<tr>    
+<th></th>
+<th>ColumnFilter</th>
+<th></th>
+<th></th>
+</tr>                                     
+ <tr>    
+<th></th>
+<th>CellTemplate</th>
+<th></th>
+<th></th>
+</tr>    
              
-     <tr>    
-                   <th></th>
-                             <th>Return self</th>
-                             <th></th>
-                           <th></th>
-                                      
-       <tr>    
-                                    <th></th>
-                                             <th>console.log(parameters)</th>
-                                             <th></th>
-                                             <th></th>
-                             </tr>   
+<tr>    
+<th></th>
+<th>Return self</th>
+<th></th>
+<th></th>
+</tr>    
+<tr>
+<th></th>
+<th>console.log(parameters)</th>
+<th></th>
+<th></th>
+</tr>   
                     </table>
 
 <h2>Data</h2>
