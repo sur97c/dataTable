@@ -56,8 +56,6 @@ With the features below:
  <th width="10%"scope="col">Description</th>
                    
 <tr>
-
- <th></th>
  <th>Title </th>
  <th>boolean</th>
  <th>Muestra el titulo en el encabezado de la tabla  "Error en parámetro 'tipo Bandeja'"</th>
@@ -65,30 +63,29 @@ With the features below:
  </tr>
             
  <tr>
- <th></th>
  <th>showColumnsOption</th>
  <th>boolean</th>
  <th>configura las columnas</th>
   </tr>
             
   <tr>
-  <th></th>
   <th> showSearchOption: false,  </td>
   <th>boolean</th>
   <th></th>
   </tr>
+  
   <tr>
-  <th></th>
   <th> showRemoveFiltersOption: false,  </th>
   <th>boolean</th>
   <th></th>
   </tr>
-   
-  <th></th>
+  
+  <tr>
   <th> headerOptions.title </th>
   <th></th>
   <th></th>
   </tr>
+  
   </table>
   
 <h2>SelectableRows</h2>
@@ -100,29 +97,24 @@ With the features below:
  <th width="10%"scope="col">Description</th>
 
  <tr>
- <th></th>
  <th>show</th>
  <th>boolean</th>
  <th></th>
  </tr>
+ 
  <tr>
- <th></th>
  <th>multiSelect</th>
  <th>boolean</th>
  <th></th>
  </tr>
-<tr
- <th></th>
+ 
+<tr>
  <th> allowSelectableAll</th>
  <th></th>
  <th></th>
  </tr>
-                                      
-</tr>
-                    </table>
+ </table>
             
-<tr>
-
 
  <h2>ActionsRows</h2>  
  <table>
@@ -144,33 +136,30 @@ With the features below:
  <th width="10%"scope="col">Type</th>
  <th width="10%"scope="col">Description</th>
  <tr>
- <th></th>
  <th>Name</th>
  <th></th>
  <th></th>
  </tr>
    
  <tr>
- <th></th>
  <th>displayName</th>
  <th></th>
  <th> </th> 
+</tr> 
 
-</tr>      
 <tr>
- <th></th>>
  <th>format</th>
  <th></th>
  <th></th>
- </tr>        
+ </tr> 
+ 
  <tr>
- <th></th>
  <th>show</th>
  <th></th>
  <th></th>
- </tr>            
+ </tr>
+ 
  <tr>
- <th></th>
  <th></th>
  <th></th>
  <th></th>
@@ -185,22 +174,20 @@ With the features below:
  <th width="10%"scope="col">Attribute</th>
  <th width="10%"scope="col">Type</th>
  <th width="10%"scope="col">Description</th>
-  <tr>
- <th></th>  
+ 
+  <tr> 
  <th>Show</th>
  <th></th>
  <th></th>   
-                                  
-</tr>
-<tr>
-<th></th>   
+ </tr>
+ 
+<tr>  
 <th>currentPage</th>
 <th></th>
 <th></th>    
-                                          
 </tr>
-<tr>
-<th></th>   
+
+<tr>  
 <th> itemsByPage</th>
 <th></th>
 <th></th>    
@@ -215,50 +202,47 @@ With the features below:
  <th width="10%"scope="col">Description</th>
                                                                    
  <tr>
-<th></th>
 <th>infoFieldName</th>
 <th></th>
 <th></th>
 </tr>
              
 <tr>
-<th></th>
 <th>info</th>
 <th></th>
 <th></th>
 </tr>
-<tr>
-<th></th>   
+
+<tr>   
 <th>totalItemsFieldName</th>
 <th></th>
 <th></th>   
-</tr>     
+</tr>
+
 <tr>    
-<th></th>
 <th>ColumnFilter</th>
 <th></th>
 <th></th>
-</tr>                                     
- <tr>    
-<th></th>
+</tr> 
+
+<tr>    
 <th>CellTemplate</th>
 <th></th>
 <th></th>
 </tr>    
              
 <tr>    
-<th></th>
 <th>Return self</th>
 <th></th>
 <th></th>
-</tr>    
+</tr> 
+
 <tr>
-<th></th>
 <th>console.log(parameters)</th>
 <th></th>
 <th></th>
 </tr>   
-                    </table>
+</table>
 
 <h2>Data</h2>
  <table>
@@ -272,8 +256,8 @@ With the features below:
     <th></th>
     <th></th>
     <th></th>
-    <th></th>
     </tr>
+    
 <h3>Pagination</h3>
 <table>
     
@@ -282,11 +266,12 @@ With the features below:
  <th width="10%"scope="col">Attribute</th>
  <th width="10%"scope="col">Type</th>
  <th width="10%"scope="col">Description</th>
- </tr>
- <tr>
-<th></th>
-<th></th>
- </tr>
+ 
+<tr>
+    <th></th>
+    <th></th>
+    <th></th>
+    </tr>
 
 
 
