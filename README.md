@@ -163,7 +163,8 @@ With the features below:
  <th></th>
  <th></th>
  <th></th>
- </tr>  
+ </tr> 
+  </table>
  
  
  <h2>paginationOptions</h2>  
@@ -192,7 +193,8 @@ With the features below:
 <th></th>
 <th></th>    
 </tr>   
-
+ </table>
+ 
 <h2>Self.data</h2>  
 <table>
                                                   
@@ -257,7 +259,8 @@ With the features below:
     <th></th>
     <th></th>
     </tr>
-    
+  </table>
+  
 <h3>Pagination</h3>
 <table>
     
