@@ -50,10 +50,10 @@ With the features below:
     <table>
    <table border="1" cellpadding="15" cellspacing="0" width="75%">
                  
- <th width="10%"scope="col">Available</th>
- <th width="10%"scope="col">Data</th>
+
+ <th width="10%"scope="col">Attribute</th>
  <th width="10%"scope="col">Type</th>
- <th width="10%"scope="col">Details</th>
+ <th width="10%"scope="col">Description</th>
                    
 <tr>
 
@@ -95,10 +95,9 @@ With the features below:
 <table>
 <table border="1" cellpadding="15" cellspacing="0" width="75%">
        
-<th width="10%"scope="col">Available</th>
-<th width="10%"scope="col">Data</th>
-<th width="10%"scope="col">Type</th>
-<th width="10%"scope="col">Details</th>
+ <th width="10%"scope="col">Attribute</th>
+ <th width="10%"scope="col">Type</th>
+ <th width="10%"scope="col">Description</th>
 
  <tr>
  <th></th>
@@ -129,10 +128,9 @@ With the features below:
  <table>
  <table border="1" cellpadding="15" cellspacing="0" width="75%">
                
- <th width="10%"scope="col">Available</th>
- <th width="10%"scope="col">Data</th>
+ <th width="10%"scope="col">Attribute</th>
  <th width="10%"scope="col">Type</th>
- <th width="10%"scope="col">Details</th>
+ <th width="10%"scope="col">Description</th>
  </tr>
  </table>                 
                      
@@ -143,7 +141,6 @@ With the features below:
   <table border="1" cellpadding="15" cellspacing="0" width="75%">
                                                                
  <th width="10%"scope="col">Attribute</th>
- <th width="10%"scope="col">Element</th>
  <th width="10%"scope="col">Type</th>
  <th width="10%"scope="col">Description</th>
  <tr>
@@ -185,10 +182,9 @@ With the features below:
          
  <table border="1" cellpadding="15" cellspacing="0" width="75%">
                     
- <th width="10%"scope="col">Available</th>
- <th width="10%"scope="col">Data</th>
+ <th width="10%"scope="col">Attribute</th>
  <th width="10%"scope="col">Type</th>
- <th width="10%"scope="col">Details</th>
+ <th width="10%"scope="col">Description</th>
   <tr>
  <th></th>  
  <th>Show</th>
@@ -214,10 +210,9 @@ With the features below:
 <table>
                                                   
 <table border="1" cellpadding="15" cellspacing="0" width="75%">
-<th width="10%"scope="col">Available</th>
-<th width="10%"scope="col">Data</th>
-<th width="10%"scope="col">Type</th>
-<th width="10%"scope="col">Details</th>
+ <th width="10%"scope="col">Attribute</th>
+ <th width="10%"scope="col">Type</th>
+ <th width="10%"scope="col">Description</th>
                                                                    
  <tr>
 <th></th>
@@ -266,8 +261,28 @@ With the features below:
                     </table>
 
 <h2>Data</h2>
+ <table>
+
+  <table border="1" cellpadding="15" cellspacing="0" width="75%">
+                                                               
+ <th width="10%"scope="col">Attribute</th>
+ <th width="10%"scope="col">Type</th>
+ <th width="10%"scope="col">Description</th>
+ <tr>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    </tr>
 <h3>Pagination</h3>
 <table>
+    
+  <table border="1" cellpadding="15" cellspacing="0" width="75%">
+                                                               
+ <th width="10%"scope="col">Attribute</th>
+ <th width="10%"scope="col">Type</th>
+ <th width="10%"scope="col">Description</th>
+ </tr>
  <tr>
 <th></th>
 <th></th>
