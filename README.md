@@ -46,7 +46,7 @@ With the features below:
         <li><a href="#Data">Data</li></a>
          <ul>
            
-  <h2>HeaderOptions</h2>
+  <h2 id="HeaderOptions">HeaderOptions</h2>
     <table>
    <table border="1" cellpadding="15" cellspacing="0" width="75%">
                  
