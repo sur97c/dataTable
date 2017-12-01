@@ -39,7 +39,7 @@ With the features below:
         <li><a href="#HeaderOptions">HeaderOptions</li></a> 
         <li><a href="#LoadingIndicator">LoadingIndicator</li></a>
         <li><a href="#SelectableRows">SelectableRows</li></a>
-        <li><a href="ActionsRows">ActionsRows</li></a>
+        <li><a href="#ActionsRows">ActionsRows</li></a>
         <li><a href="#ColumnsDefinition">ColumnsDefinition</li></a>
         <li><a href="#RowsDefinition">RowsDefinition</li></a>
         <li><a href="#PaginationOptions">PaginationOptions</li></a>
