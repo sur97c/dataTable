@@ -88,7 +88,7 @@ With the features below:
   
   </table>
   
-<h2>SelectableRows</h2>
+<h2 id="SelectableRows">SelectableRows</h2>
 <table>
 <table border="1" cellpadding="15" cellspacing="0" width="75%">
        
@@ -116,7 +116,7 @@ With the features below:
  </table>
             
 
- <h2>ActionsRows</h2>  
+ <h2 id="ActionsRows">ActionsRows</h2>  
  <table>
  <table border="1" cellpadding="15" cellspacing="0" width="75%">
                
@@ -127,7 +127,7 @@ With the features below:
  </table>                 
                      
 
- <h2>ColumnsDefinition</h2>
+ <h2 id="ColumnsDefinition">ColumnsDefinition</h2>
  <table>
 
   <table border="1" cellpadding="15" cellspacing="0" width="75%">
@@ -167,7 +167,7 @@ With the features below:
   </table>
  
  
- <h2>paginationOptions</h2>  
+ <h2 id="paginationOptions">paginationOptions</h2>  
      <table>
          
  <table border="1" cellpadding="15" cellspacing="0" width="75%">
@@ -195,7 +195,7 @@ With the features below:
 </tr>   
  </table>
  
-<h2>Self.data</h2>  
+<h2 id="Self.data">Self.data</h2>  
 <table>
                                                   
 <table border="1" cellpadding="15" cellspacing="0" width="75%">
@@ -246,7 +246,7 @@ With the features below:
 </tr>   
 </table>
 
-<h2>Data</h2>
+<h2 id="Data">Data</h2>
  <table>
 
   <table border="1" cellpadding="15" cellspacing="0" width="75%">
@@ -261,7 +261,7 @@ With the features below:
     </tr>
   </table>
   
-<h3>Pagination</h3>
+<h2 id="Pagination">Pagination</h3>
 <table>
     
   <table border="1" cellpadding="15" cellspacing="0" width="75%">
