@@ -35,8 +35,8 @@ With the features below:
 
 <h1>DataTable</h1>
 <ul>
-        <li>Height</li>
-         <li>HeaderOptions</li>
+        <li><a href="#Height">Height</li></a>
+         <li><a href="#HeaderOptions">HeaderOptions</li></a> 
            <li>LoadingIndicator</li>
              <li>SelectableRows</li>
         <li>ActionsRows</li>
