@@ -36,14 +36,14 @@ With the features below:
 <h1>DataTable</h1>
 <ul>
         <li><a href="#Height">Height</li></a>
-         <li><a href="#HeaderOptions">HeaderOptions</li></a> 
-           <li>LoadingIndicator</li>
-             <li>SelectableRows</li>
-        <li>ActionsRows</li>
-        <li>ColumnsDefinition</li>
-        <li>RowsDefinition</li>
-        <li>PaginationOptions</li>
-        <li>Data</li>
+        <li><a href="#HeaderOptions">HeaderOptions</li></a> 
+        <li><a href="#LoadingIndicator">LoadingIndicator</li></a>
+        <li><a href="#SelectableRows">SelectableRows</li></a>
+        <li><a href="ActionsRows">ActionsRows</li></a>
+        <li><a href="#ColumnsDefinition">ColumnsDefinition</li></a>
+        <li><a href="#RowsDefinition">RowsDefinition</li></a>
+        <li><a href="#PaginationOptions">PaginationOptions</li></a>
+        <li><a href="#Data">Data</li></a>
          <ul>
            
   <h2>HeaderOptions</h2>
