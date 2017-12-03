@@ -1,39 +1,12 @@
-# dataTable
-Data table jquery widget with materialize style
-
-Hola Mundo
-
-<h1>Test 1............</h1>
 
 
-**dataTable**
-
-***
+<h3>Configuration</h3>
 
 The dataTable widget is a jquery plugin with a materialize style to allow build data grid components
 
-With the features below:
-
-* Feature 1
-* Feature 2
-* Feature 3
-
-
-<h1>dataTable</h1>
-    <code>
-        ksn,mzncz,mxnc,mznxc,mznxcsldcskdjfb,nbz
-
-        zxczxczxczxczxc
-
-        zxczxczxczxczxczxc
-
-        zxczxczxczxc
-    </code>
-
-
-
-
 <h1>DataTable</h1>
+
+
 <ul>
         <li><a href="#Height">Height</li></a>
         <li><a href="#HeaderOptions">HeaderOptions</li></a> 
