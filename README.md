@@ -15,23 +15,23 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
  <tr>
     
  <th>height</th>
- <th></th>
- <th></th>
+ <th>entire</th>
+ <th>altura de la tabla</th>
             
  </tr>
  
 <tr>
     
  <th>headerOptions</th>
- <th></th>
- <th></th>
+ <th>json</th>
+ <th>configura el encabezado de la tabla</th>
             
  </tr>
  
  <tr>
     
  <th>loadingIndicator</th>
- <th></th>
+ <th>bolean</th>
  <th></th>
             
  </tr>
@@ -39,7 +39,7 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
  <tr>
     
  <th>selectableRows</th>
- <th></th>
+ <th>json</th>
  <th></th>
             
  </tr>
@@ -47,7 +47,7 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
  <tr>
     
  <th>actionsRows</th>
- <th></th>
+ <th>json</th>
  <th></th>
             
  </tr>
@@ -55,7 +55,7 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
  <tr>
     
  <th>columnsDefinition</th>
- <th></th>
+ <th>json</th>
  <th></th>
             
  </tr>
@@ -63,7 +63,7 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
  <tr>
     
  <th>rowsDefinition</th>
- <th></th>
+ <th>json</th>
  <th></th>
             
  </tr>
@@ -71,7 +71,7 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
  <tr>
     
  <th>paginationOptions</th>
- <th></th>
+ <th>json</th>
  <th></th>
             
  </tr>
@@ -79,7 +79,7 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
  <tr>
     
  <th>data</th>
- <th></th>
+ <th>json</th>
  <th></th>
             
  </tr>
