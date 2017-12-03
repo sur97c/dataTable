@@ -22,7 +22,7 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
  
 <tr>
     
- <th><a href="#height">headerOptions</a></th>
+ <th><a href="#heightOptions">headerOptions</a></th>
  <th>json</th>
  <th>configura el encabezado de la tabla</th>
             
@@ -38,7 +38,7 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
  
  <tr>
     
- <th>selectableRows</th>
+ <th><a href="#selectableRows">selectableRows</th></a>
  <th>json</th>
  <th></th>
             
