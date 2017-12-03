@@ -14,28 +14,91 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
 
  <tr>
     
- <th> </th>
+ <th>height</th>
  <th></th>
  <th></th>
             
  </tr>
-
-
+ 
+<tr>
+    
+ <th>headerOptions</th>
+ <th></th>
+ <th></th>
+            
+ </tr>
+ 
+ <tr>
+    
+ <th>loadingIndicator</th>
+ <th></th>
+ <th></th>
+            
+ </tr>
+ 
+ <tr>
+    
+ <th>selectableRows</th>
+ <th></th>
+ <th></th>
+            
+ </tr>
+ 
+ <tr>
+    
+ <th>actionsRows</th>
+ <th></th>
+ <th></th>
+            
+ </tr>
+ 
+ <tr>
+    
+ <th>columnsDefinition</th>
+ <th></th>
+ <th></th>
+            
+ </tr>
+ 
+ <tr>
+    
+ <th>rowsDefinition</th>
+ <th></th>
+ <th></th>
+            
+ </tr>
+ 
+ <tr>
+    
+ <th>paginationOptions</th>
+ <th></th>
+ <th></th>
+            
+ </tr>
+ 
+ <tr>
+    
+ <th>data</th>
+ <th></th>
+ <th></th>
+            
+ </tr>
+</table>
 
 
 <h1>DataTable</h1>
 
 
 <ul>
-        <li><a href="#Height">Height</li></a>
-        <li><a href="#HeaderOptions">HeaderOptions</li></a> 
-        <li><a href="#LoadingIndicator">LoadingIndicator</li></a>
-        <li><a href="#SelectableRows">SelectableRows</li></a>
-        <li><a href="#ActionsRows">ActionsRows</li></a>
-        <li><a href="#ColumnsDefinition">ColumnsDefinition</li></a>
-        <li><a href="#RowsDefinition">RowsDefinition</li></a>
-        <li><a href="#PaginationOptions">PaginationOptions</li></a>
-        <li><a href="#Data">Data</li></a>
+        <li><a href="#height">height</li></a>
+        <li><a href="#headerOptions">headerOptions</li></a> 
+        <li><a href="#loadingIndicator">loadingIndicator</li></a>
+        <li><a href="#selectableRows">selectableRows</li></a>
+        <li><a href="#actionsRows">actionsRows</li></a>
+        <li><a href="#columnsDefinition">columnsDefinition</li></a>
+        <li><a href="#rowsDefinition">rowsDefinition</li></a>
+        <li><a href="#paginationOptions">paginationOptions</li></a>
+        <li><a href="#data">data</li></a>
          <ul>
            
   <h2 id="HeaderOptions">HeaderOptions</h2>
