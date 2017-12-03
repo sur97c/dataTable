@@ -22,7 +22,7 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
  
 <tr>
     
- <th><a href="#heightOptions">headerOptions</a></th>
+ <th><a href="#heightOptions">headerOptions</th></a>
  <th>json</th>
  <th>configura el encabezado de la tabla</th>
             
@@ -46,7 +46,7 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
  
  <tr>
     
- <th>actionsRows</th>
+ <th><a href="#actionsRows">actionsRows</th><a/>
  <th>json</th>
  <th></th>
             
@@ -54,7 +54,7 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
  
  <tr>
     
- <th>columnsDefinition</th>
+ <th><a href="#columnsDefinition">columnsDefinition</th></a>
  <th>json</th>
  <th></th>
             
@@ -62,7 +62,7 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
  
  <tr>
     
- <th>rowsDefinition</th>
+ <th><a href="#rowsDefinition">rowsDefinition</th></a>
  <th>json</th>
  <th></th>
             
@@ -70,7 +70,7 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
  
  <tr>
     
- <th>paginationOptions</th>
+ <th><a href="#paginationOptions">paginationOptions</th>
  <th>json</th>
  <th></th>
             
@@ -78,7 +78,7 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
  
  <tr>
     
- <th>data</th>
+ <th><a href="#data" data</th></a>
  <th>json</th>
  <th></th>
             
@@ -89,17 +89,6 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
 <h1>DataTable</h1>
 
 
-<ul>
-        <li><a href="#height">height</li></a>
-        <li><a href="#headerOptions">headerOptions</li></a> 
-        <li><a href="#loadingIndicator">loadingIndicator</li></a>
-        <li><a href="#selectableRows">selectableRows</li></a>
-        <li><a href="#actionsRows">actionsRows</li></a>
-        <li><a href="#columnsDefinition">columnsDefinition</li></a>
-        <li><a href="#rowsDefinition">rowsDefinition</li></a>
-        <li><a href="#paginationOptions">paginationOptions</li></a>
-        <li><a href="#data">data</li></a>
-         <ul>
            
   <h2 id="headerOptions">headerOptions</h2>
     <table>
