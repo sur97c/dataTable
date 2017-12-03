@@ -1,6 +1,6 @@
 
 
-<h3>**Configuration**</h3>
+<h3>Configuration</h3>
 
 The dataTable widget is a jquery plugin with a materialize style to allow build data grid components
 
@@ -8,9 +8,9 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
 <table>
 <table border="1" cellpadding="15" cellspacing="0" width="75%">
        
- <th width="10%"scope="col">**Attribute**</th>
- <th width="10%"scope="col">**Type**</th>
- <th width="10%"scope="col">**Description**</th>
+ <th width="10%"scope="col">Attribute</th>
+ <th width="10%"scope="col">Type</th>
+ <th width="10%"scope="col">Description</th>
 
  <tr>
     
@@ -101,8 +101,8 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
                    
 <tr>
  <th>title </th>
- <th>boolean</th>
- <th>Muestra el titulo en el encabezado de la tabla  "Error en parámetro 'tipo Bandeja'"</th>
+ <th>string</th>
+ <th>Muestra el titulo en el encabezado de la tabla</th>
             
  </tr>
             
@@ -113,22 +113,17 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
   </tr>
             
   <tr>
-  <th> showSearchOption: false,  </td>
+  <th> showSearchOption</td>
   <th>boolean</th>
   <th></th>
   </tr>
   
   <tr>
-  <th> showRemoveFiltersOption: false,  </th>
+  <th> showRemoveFiltersOption</th>
   <th>boolean</th>
   <th></th>
   </tr>
   
-  <tr>
-  <th> headerOptions.title </th>
-  <th></th>
-  <th></th>
-  </tr>
   
   </table>
   
@@ -154,7 +149,7 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
  
 <tr>
  <th> allowSelectableAll</th>
- <th></th>
+ <th>boolean</th>
  <th></th>
  </tr>
  </table>
@@ -181,31 +176,31 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
  <th width="10%"scope="col">Description</th>
  <tr>
  <th>name</th>
- <th></th>
+ <th>string</th>
  <th></th>
  </tr>
    
  <tr>
  <th>displayName</th>
- <th></th>
+ <th>string</th>
  <th> </th> 
 </tr> 
 
 <tr>
  <th>format</th>
- <th></th>
+ <th>string</th>
  <th></th>
  </tr> 
  
  <tr>
  <th>show</th>
- <th></th>
+ <th>boolean</th>
  <th></th>
  </tr>
  
  <tr>
- <th></th>
- <th></th>
+ <th>columnFilter</th>
+ <th>Inline Array Annotation</th>
  <th></th>
  </tr> 
   </table>
