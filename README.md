@@ -101,7 +101,7 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
         <li><a href="#data">data</li></a>
          <ul>
            
-  <h2 id="HeaderOptions">HeaderOptions</h2>
+  <h2 id="headerOptions">headerOptions</h2>
     <table>
    <table border="1" cellpadding="15" cellspacing="0" width="75%">
                  
@@ -111,7 +111,7 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
  <th width="10%"scope="col">Description</th>
                    
 <tr>
- <th>Title </th>
+ <th>title </th>
  <th>boolean</th>
  <th>Muestra el titulo en el encabezado de la tabla  "Error en parámetro 'tipo Bandeja'"</th>
             
@@ -143,7 +143,7 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
   
   </table>
   
-<h2 id="SelectableRows">SelectableRows</h2>
+<h2 id="selectableRows">selectableRows</h2>
 <table>
 <table border="1" cellpadding="15" cellspacing="0" width="75%">
        
@@ -171,7 +171,7 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
  </table>
             
 
- <h2 id="ActionsRows">ActionsRows</h2>  
+ <h2 id="actionsRows">actionsRows</h2>  
  <table>
  <table border="1" cellpadding="15" cellspacing="0" width="75%">
                
@@ -182,7 +182,7 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
  </table>                 
                      
 
- <h2 id="ColumnsDefinition">ColumnsDefinition</h2>
+ <h2 id="columnsDefinition">columnsDefinition</h2>
  <table>
 
   <table border="1" cellpadding="15" cellspacing="0" width="75%">
@@ -191,7 +191,7 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
  <th width="10%"scope="col">Type</th>
  <th width="10%"scope="col">Description</th>
  <tr>
- <th>Name</th>
+ <th>name</th>
  <th></th>
  <th></th>
  </tr>
@@ -250,7 +250,7 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
 </tr>   
  </table>
  
-<h2 id="Self.data">Self.data</h2>  
+<h2 id="self.data">self.data</h2>  
 <table>
                                                   
 <table border="1" cellpadding="15" cellspacing="0" width="75%">
@@ -277,19 +277,19 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
 </tr>
 
 <tr>    
-<th>ColumnFilter</th>
+<th>columnFilter</th>
 <th></th>
 <th></th>
 </tr> 
 
 <tr>    
-<th>CellTemplate</th>
+<th>cellTemplate</th>
 <th></th>
 <th></th>
 </tr>    
              
 <tr>    
-<th>Return self</th>
+<th>return self</th>
 <th></th>
 <th></th>
 </tr> 
@@ -316,7 +316,7 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
     </tr>
   </table>
   
-<h2 id="Pagination">Pagination</h3>
+<h2 id="pagination">pagination</h3>
 <table>
     
   <table border="1" cellpadding="15" cellspacing="0" width="75%">
