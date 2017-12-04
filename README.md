@@ -249,7 +249,7 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
 </tr>
 
 <tr>  
-<th><a href="#itemsByPage">itemsByPag</th>
+<th><a href="#itemsByPage">itemsByPage</th>
 <th>json</th>
 <th></th>    
 </tr>   
