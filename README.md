@@ -163,7 +163,7 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
  <th width="10%"scope="col">Type</th>
  <th width="10%"scope="col">Description</th>
  </tr>
- </table> 
+
  
  <tr>
 <th>show</th>
@@ -176,6 +176,8 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
 <th>array</th>
 <th></th>
 </tr>
+ </table> 
+
 
  <h2 id="columnsDefinition">columnsDefinition</h2>
  <table>
