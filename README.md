@@ -237,20 +237,20 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
  <th width="10%"scope="col">Description</th>
  
   <tr> 
- <th>Show</th>
- <th></th>
+ <th>show</th>
+ <th>boolean</th>
  <th></th>   
  </tr>
  
 <tr>  
 <th>currentPage</th>
-<th></th>
+<th>entire</th>
 <th></th>    
 </tr>
 
 <tr>  
 <th> itemsByPage</th>
-<th></th>
+<th>json</th>
 <th></th>    
 </tr>   
  </table>
@@ -285,7 +285,7 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
 
 <tr>    
 <th>columnFilter</th>
-<th></th>
+<th><a href="https://docs.angularjs.org/guide/di">Inline Array Annotation</th></a></th>
 <th></th>
 </tr> 
 
