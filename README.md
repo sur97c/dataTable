@@ -329,6 +329,7 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
     <th><a href="https://docs.angularjs.org/guide/di">Inline Array Annotation</th></a></th>
     <th></th>
     </tr>
+    </table>
     
 <h2 id=" itemsByPage">itemsByPage</h2>
  <table>
