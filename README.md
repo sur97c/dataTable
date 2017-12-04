@@ -195,7 +195,7 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
  </tr>
    
  <tr>
- <th>a href="displayName">displayName</th>
+<th><a href="#displayName">displayName</th></a>
  <th>string</th>
  <th> </th> 
 </tr> 
