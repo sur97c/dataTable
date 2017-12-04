@@ -87,7 +87,7 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
 </table>
 
 
-<h3>Configuration</h3>
+<h1>Configuration</h1>
 
 
            
