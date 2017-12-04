@@ -1,6 +1,7 @@
 
 
-<h3>Configuration</h3>
+
+<h1>DataTable</h1>
 
 The dataTable widget is a jquery plugin with a materialize style to allow build data grid components
 
@@ -78,7 +79,7 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
  
  <tr>
     
- <th><a href="#data" data</th></a>
+ <th><a href="#data">data</th></a>
  <th>json</th>
  <th></th>
             
@@ -86,7 +87,7 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
 </table>
 
 
-<h1>DataTable</h1>
+<h3>Configuration</h3>
 
 
            
@@ -254,7 +255,7 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
 </tr>   
  </table>
  
-<h2 id="self.data">self.data</h2>  
+<h2 id="data">data</h2>  
 <table>
                                                   
 <table border="1" cellpadding="15" cellspacing="0" width="75%">
@@ -264,21 +265,23 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
                                                                    
  <tr>
 <th>infoFieldName</th>
-<th></th>
-<th></th>
-</tr>
-             
-<tr>
-<th>info</th>
-<th></th>
+<th>string</th>
 <th></th>
 </tr>
 
 <tr>   
 <th>totalItemsFieldName</th>
-<th></th>
+<th>string</th>
 <th></th>   
+</tr>           
+
+<tr>
+<th>info</th>
+<th>null</th>
+<th></th>
 </tr>
+
+
 
 <tr>    
 <th>columnFilter</th>
