@@ -5,6 +5,7 @@
 
 The dataTable widget is a jquery plugin with a materialize style to allow build data grid components
 
+<h1>Configuration</h1>
 
 <table>
 <table border="1" cellpadding="15" cellspacing="0" width="75%">
@@ -87,7 +88,7 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
 </table>
 
 
-<h1>Configuration</h1>
+
 
 
            
@@ -358,11 +359,6 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
     <th></th>
     </tr>
 </table>
-
-<script>
-alert('Hola Claudia');
-</script>
-
 
 
 
