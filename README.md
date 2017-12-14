@@ -175,7 +175,7 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
             
   <tr>
 <th>actions</th>
-<th>array</th>
+<th>array, [json]</th>
 <th>muestra las acciones de las filas</th>
 </tr>
  </table> 
@@ -192,37 +192,37 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
  <tr>
  <th>name</th>
  <th>string</th>
- <th></th>
+ <th>nombre de la columna</th>
  </tr>
    
  <tr>
 <th><a href="#displayName">displayName</th></a>
  <th>string</th>
- <th> </th> 
+ <th>desplega el nombre</th> 
 </tr> 
 
 <tr>
  <th>format</th>
  <th>string</th>
- <th></th>
+ <th>da formato a la celda</th>
  </tr> 
  
  <tr>
  <th>show</th>
  <th>boolean</th>
- <th></th>
+ <th>muestra la columna</th>
  </tr>
  
  <tr>
  <th>columnFilter</th>
  <th><a href="https://docs.angularjs.org/guide/di">Inline Array Annotation</th></a>
- <th></th>
+ <th>filtra la columna</th>
  </tr> 
  
   <tr>
  <th>cellTemplate</th>
  <th>array</th>
- <th></th>
+ <th>celda</th>
  </tr> 
  
   </table>
@@ -240,19 +240,19 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
   <tr> 
  <th>show</th>
  <th>boolean</th>
- <th></th>   
+ <th>muestra las opciones de la paginacion</th>   
  </tr>
  
 <tr>  
 <th>currentPage</th>
 <th>entire</th>
-<th></th>    
+<th>pagina actual</th>    
 </tr>
 
 <tr>  
 <th><a href="#itemsByPage">itemsByPage</th>
 <th>json</th>
-<th></th>    
+<th>articulos por pagina</th>    
 </tr>   
  </table>
  
@@ -267,19 +267,19 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
  <tr>
 <th>infoFieldName</th>
 <th>string</th>
-<th></th>
+<th> el nombre del campo</th>
 </tr>
 
 <tr>   
 <th>totalItemsFieldName</th>
 <th>string</th>
-<th></th>   
+<th>nombre del campo de elementos</th>   
 </tr>           
 
 <tr>
 <th>info</th>
 <th>null</th>
-<th></th>
+<th>informacion del campo</th>
 </tr>
 
 
@@ -287,25 +287,25 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
 <tr>    
 <th>columnFilter</th>
 <th><a href="https://docs.angularjs.org/guide/di">Inline Array Annotation</th></a></th>
-<th></th>
+<th>filtra la columna</th>
 </tr> 
 
 <tr>    
 <th>cellTemplate</th>
 <th></th>
-<th></th>
+<th>plantilla de la celda</th>
 </tr>    
              
 <tr>    
 <th>return self</th>
 <th></th>
-<th></th>
+<th>regresa a la celda</th>
 </tr> 
 
 <tr>
 <th>console.log(parameters)</th>
 <th></th>
-<th></th>
+<th>consola de los paramteros</th>
 </tr>   
 </table>
 
