@@ -177,7 +177,7 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
 </tr>
             
   <tr>
-<th><a href="actions structure">actions</th></a>
+<th><a href="actions">actions</th></a>
 <th>array, [json]</th>
 <th>muestra las acciones de las filas</th>
 </tr>
@@ -312,7 +312,7 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
 </tr>   
 </table>
 
-<h2 id=" actions structure">actions structure</h2>
+<h2 id="actions">actions structure</h2>
  <table>
 
   <table border="1" cellpadding="15" cellspacing="0" width="75%">
