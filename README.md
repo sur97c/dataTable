@@ -359,6 +359,10 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
     </tr>
 </table>
 
+<script>
+alert('Hola Claudia');
+</script>
+
 
 
 
