@@ -14,7 +14,7 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
 <table border="1" cellpadding="15" cellspacing="0" width="75%">
        
  <th width="10%"scope="col">Attribute</th>
- <th width="10%"scope="col">Type</th>
+ <th width="10%"scope="col">Type</dosth>
  <th width="10%"scope="col">Description</th>
 
  <tr>
@@ -177,7 +177,7 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
 </tr>
             
   <tr>
-<th><a href="actions structure">actions structure</th></a>
+<th><a href="actions structure">actions</th></a>
 <th>array, [json]</th>
 <th>muestra las acciones de las filas</th>
 </tr>
