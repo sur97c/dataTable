@@ -174,7 +174,7 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
 </tr>
             
   <tr>
-<th><a href="actions structure">actions</th></a>
+<th><a href="actions structure">actions structure</th></a>
 <th>array, [json]</th>
 <th>muestra las acciones de las filas</th>
 </tr>
@@ -305,7 +305,7 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
 <tr>
 <th>console.log(parameters)</th>
 <th></th>
-<th>consola de los paramteros</th>
+<th>consola de los parametros</th>
 </tr>   
 </table>
 
@@ -322,7 +322,7 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
  <tr>
     <th>handler</th>
     <th><a href="https://docs.angularjs.org/guide/di">Inline Array Annotation</th></a></th>
-    <th></th>
+    <th>manejador</th>
     </tr>
     </table>
     
@@ -339,18 +339,18 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
  <tr>
     <th>displayText</th>
     <th>string</th>
-    <th></th>
+    <th>muestra el texto de la pagina</th>
     </tr>
 
  <tr>
     <th>value</th>
     <th>entirer</th>
-    <th></th>
+    <th>da valor a la pagina</th>
     </tr>
 <tr>
     <th>active</th>
     <th>boolean</th>
-    <th></th>
+    <th>activa la pagina</th>
     </tr>
 </table>
 
