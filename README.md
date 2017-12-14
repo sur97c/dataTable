@@ -324,7 +324,7 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
 
  <tr>
     <th>handler</th>
-    <th><a href="https://docs.angularjs.org/guide/di">Inline Array Annotation</th></a></th>
+    <th><a href="https://docs.angularjs.org/guide/di">Inline Array Annotation</th></a>
     <th>manejador</th>
     </tr>
     </table>
