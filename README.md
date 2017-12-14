@@ -34,7 +34,7 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
     
  <th>loadingIndicator</th>
  <th>bolean</th>
- <th></th>
+ <th>carga la tabla</th>
             
  </tr>
  
@@ -42,7 +42,7 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
     
  <th><a href="#selectableRows">selectableRows</th></a>
  <th>json</th>
- <th></th>
+ <th>selecciona la filas de la tabla</th>
             
  </tr>
  
@@ -50,7 +50,7 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
     
  <th><a href="#actionsRows">actionsRows</th><a/>
  <th>json</th>
- <th></th>
+ <th>comportamiendo de las filas en la tabla</th>
             
  </tr>
  
@@ -66,7 +66,7 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
     
  <th><a href="#rowsDefinition">rowsDefinition</th></a>
  <th>json</th>
- <th></th>
+ <th>define las columnas de la tabla</th>
             
  </tr>
  
@@ -74,7 +74,7 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
     
  <th><a href="#paginationOptions">paginationOptions</th>
  <th>json</th>
- <th></th>
+ <th>opciones de la paginacion en la tabla</th>
             
  </tr>
  
@@ -82,7 +82,7 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
     
  <th><a href="#data">data</th></a>
  <th>json</th>
- <th></th>
+ <th>datos de la tabla</th>
             
  </tr>
 </table>
@@ -117,13 +117,13 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
   <tr>
   <th> showSearchOption</td>
   <th>boolean</th>
-  <th></th>
+  <th>Muestra la opcion de busqueda </th>
   </tr>
   
   <tr>
   <th> showRemoveFiltersOption</th>
   <th>boolean</th>
-  <th></th>
+  <th>muestra la opcion de eliminar los filtros</th>
   </tr>
   
   
@@ -140,19 +140,19 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
  <tr>
  <th>show</th>
  <th>boolean</th>
- <th></th>
+ <th>muestra la seleccion de las filas </th>
  </tr>
  
  <tr>
  <th>multiSelect</th>
  <th>boolean</th>
- <th></th>
+ <th>permite seleccionar las filas</th>
  </tr>
  
 <tr>
  <th> allowSelectableAll</th>
  <th>boolean</th>
- <th></th>
+ <th>permite seleccionar todas las filas</th>
  </tr>
  </table>
             
@@ -170,13 +170,13 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
  <tr>
 <th>show</th>
 <th>boolean</th>
-<th></th>
+<th>muestra como funcionan las filas</th>
 </tr>
             
   <tr>
 <th>actions</th>
 <th>array</th>
-<th></th>
+<th>muestra las acciones de las filas</th>
 </tr>
  </table> 
 
@@ -309,7 +309,7 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
 </tr>   
 </table>
 
-<h2 id="displayName">displayName</h2>
+<h2 id="actions structure">actions strucuture</h2>
  <table>
 
   <table border="1" cellpadding="15" cellspacing="0" width="75%">
@@ -318,12 +318,6 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
  <th width="10%"scope="col">Type</th>
  <th width="10%"scope="col">Description</th>
 
-
- <tr>
-    <th>NT</th>
-    <th>string</th>
-    <th></th>
-    </tr>
 
  <tr>
     <th>handler</th>
