@@ -6,12 +6,7 @@
 The dataTable widget is a jquery plugin with a materialize style to allow build data grid components
 
 <h1>Configuration</h1>
-<section class="prueba">
-<div class="prueba1">
-<h3>hola mundo</h3>
-<button>go </button>
-</div>
-</section>
+
 
 
 
