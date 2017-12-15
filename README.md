@@ -193,6 +193,7 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
  <th width="10%"scope="col"><i>Type</th></i>
  <th width="10%"scope="col"><i>Description</th></i>
  
+ <tr>
  <th>name</th>
  <th>string</th>
  <th>Nombre de la columna</th>
