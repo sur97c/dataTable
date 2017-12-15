@@ -13,7 +13,7 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
 <table>
 <table border="1" cellpadding="15" cellspacing="0" width="75%">
        
-<th width="10%"scope="col"><i><background-color:blue>Attribute</i></th>
+<th width="10%"scope="col"><i>>Attribute</i></th>
  <th width="10%"scope="col"><i>Type</th></i>
  <th width="10%"scope="col"><i>Description</th></i>
 
