@@ -100,9 +100,9 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
    <table border="1" cellpadding="15" cellspacing="0" width="75%">
                  
 
- <th width="10%"scope="col"><i><h2>Attribute</i></th></h2>
- <th width="10%"scope="col"><i><h2>Type</th></i></h2>
- <th width="10%"scope="col"><i><h2>Description</th></i></h2>
+<th width="10%"scope="col"><i>Attribute</i></th>
+ <th width="10%"scope="col"><i>Type</th></i>
+ <th width="10%"scope="col"><i>Description</th></i>
                    
 <tr>
  <th>title </th>
@@ -136,9 +136,9 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
 <table>
 <table border="1" cellpadding="15" cellspacing="0" width="75%">
        
- <th width="10%"scope="col"><i><h2>Attribute</i></th></h2>
- <th width="10%"scope="col"><i><h2>Type</th></i></h2>
- <th width="10%"scope="col"><i><h2>Description</th></i></h2>
+<th width="10%"scope="col"><i>Attribute</i></th>
+ <th width="10%"scope="col"><i>Type</th></i>
+ <th width="10%"scope="col"><i>Description</th></i>
 
  <tr>
  <th>show</th>
@@ -164,9 +164,9 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
  <table>
  <table border="1" cellpadding="15" cellspacing="0" width="75%">
                
-<th width="10%"scope="col"><i><h2>Attribute</i></th></h2>
- <th width="10%"scope="col"><i><h2>Type</th></i></h2>
- <th width="10%"scope="col"><i><h2>Description</th></i></h2>
+<th width="10%"scope="col"><i>Attribute</i></th>
+ <th width="10%"scope="col"><i>Type</th></i>
+ <th width="10%"scope="col"><i>Description</th></i>
  </tr>
 
  
@@ -189,43 +189,43 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
 
   <table border="1" cellpadding="15" cellspacing="0" width="75%">
                                                                
-<th width="10%"scope="col"><i><h2>Attribute</i></th></h2>
- <th width="10%"scope="col"><i><h2>Type</th></i></h2>
- <th width="10%"scope="col"><i><h2>Description</th></i></h2>
- <tr>
+<th width="10%"scope="col"><i>Attribute</i></th>
+ <th width="10%"scope="col"><i>Type</th></i>
+ <th width="10%"scope="col"><i>Description</th></i>
+ 
  <th>name</th>
  <th>string</th>
- <th>nombre de la columna</th>
+ <th>Nombre de la columna</th>
  </tr>
    
  <tr>
 <th>displayName</th>
  <th>string</th>
- <th>desplega el nombre</th> 
+ <th>Texto a desplegar en la columna</th> 
 </tr> 
 
 <tr>
  <th>format</th>
  <th>string</th>
- <th>da formato a la celda</th>
+ <th>Formato de la columna</th>
  </tr> 
  
  <tr>
  <th>show</th>
  <th>boolean</th>
- <th>muestra la columna</th>
+ <th>Mostrar / ocultar la columna</th>
  </tr>
  
  <tr>
  <th>columnFilter</th>
  <th><a href="https://docs.angularjs.org/guide/di">Inline Array Annotation</th></a>
- <th>filtra la columna</th>
+ <th>Habilitar filtrado por columna</th>
  </tr> 
  
   <tr>
  <th>cellTemplate</th>
  <th>array</th>
- <th>celda</th>
+ <th>Plantilla para mostrar los valores de la columna</th>
  </tr> 
  
   </table>
@@ -236,80 +236,108 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
          
  <table border="1" cellpadding="15" cellspacing="0" width="75%">
                     
- <th width="10%"scope="col"><i><h2>Attribute</i></th></h2>
- <th width="10%"scope="col"><i><h2>Type</th></i></h2>
- <th width="10%"scope="col"><i><h2>Description</th></i></h2>
+<th width="10%"scope="col"><i>Attribute</i></th>
+ <th width="10%"scope="col"><i>Type</th></i>
+ <th width="10%"scope="col"><i>Description</th></i>
  
   <tr> 
  <th>show</th>
  <th>boolean</th>
- <th>muestra las opciones de la paginacion</th>   
+ <th>Permite usar paginación en la tabla </th>   
  </tr>
  
 <tr>  
 <th>currentPage</th>
 <th>int</th>
-<th>pagina actual</th>    
+<th>Pagina actual</th>    
 </tr>
 
 <tr>  
 <th><a href="#itemsByPage">itemsByPage</th>
 <th>json</th>
-<th>articulos por pagina</th>    
+<th>Registros por pagina</th>    
 </tr>   
  </table>
+ 
+ <h2 id="itemsByPage">itemsByPage</h2>
+ <table>
+
+  <table border="1" cellpadding="15" cellspacing="0" width="75%">
+                                                               
+<th width="10%"scope="col"><i>Attribute</i></th>
+ <th width="10%"scope="col"><i>Type</th></i>
+ <th width="10%"scope="col"><i>Description</th></i>
+
+
+ <tr>
+    <th>displayText</th>
+    <th>string</th>
+    <th>Etiqueta para el valor de elementos por pagina</th>
+    </tr>
+
+ <tr>
+    <th>value</th>
+    <th>int</th>
+    <th>Número de elementos por pagina</th>
+    </tr>
+<tr>
+    <th>active</th>
+    <th>boolean</th>
+    <th>Pagina activa</th>
+    </tr>
+</table>
+
  
 <h2 id="data">data</h2>  
 <table>
                                                   
 <table border="1" cellpadding="15" cellspacing="0" width="75%">
-<th width="10%"scope="col"><i><h2>Attribute</i></th></h2>
- <th width="10%"scope="col"><i><h2>Type</th></i></h2>
- <th width="10%"scope="col"><i><h2>Description</th></i></h2>
+<th width="10%"scope="col"><i>Attribute</i></th>
+ <th width="10%"scope="col"><i>Type</th></i>
+ <th width="10%"scope="col"><i>Description</th></i>
                                                                    
  <tr>
-<th>infoFieldName</th>
-<th>string</th>
-<th> el nombre del campo</th>
-</tr>
-
-<tr>   
-<th>totalItemsFieldName</th>
-<th>string</th>
-<th>nombre del campo de elementos</th>   
-</tr>           
-
-<tr>
-<th>info</th>
-<th>null</th>
-<th>informacion del campo</th>
-</tr>
-
-
-
-<tr>    
-<th>columnFilter</th>
-<th><a href="https://docs.angularjs.org/guide/di">Inline Array Annotation</th></a></th>
-<th>filtra la columna</th>
-</tr> 
-
-<tr>    
-<th>cellTemplate</th>
 <th></th>
-<th>plantilla de la celda</th>
-</tr>    
+<th></th>
+<th> </th>
+</tr>
+
+ <tr>
+<th></th>
+<th></th>
+<th> </th>
+</tr>        
+
+ <tr>
+<th></th>
+<th></th>
+<th> </th>
+</tr>
+
+
+ <tr>
+<th></th>
+<th></th>
+<th> </th>
+</tr>
+
+ <tr>
+<th></th>
+<th></th>
+<th> </th>
+</tr>  
              
-<tr>    
-<th>return self</th>
+ <tr>
 <th></th>
-<th>regresa a la celda</th>
-</tr> 
+<th></th>
+<th> </th>
+</tr>
 
-<tr>
-<th>console.log(parameters)</th>
+ <tr>
 <th></th>
-<th>consola de los parametros</th>
-</tr>   
+<th></th>
+<th> </th>
+</tr>
 </table>
 
 <h2 id="actions structure">actions structure</h2>
@@ -317,9 +345,9 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
 
   <table border="1" cellpadding="15" cellspacing="0" width="75%">
                                                                
-<th width="10%"scope="col"><i><h2>Attribute</i></th></h2>
- <th width="10%"scope="col"><i><h2>Type</th></i></h2>
- <th width="10%"scope="col"><i><h2>Description</th></i></h2>
+<th width="10%"scope="col"><i>Attribute</i></th>
+ <th width="10%"scope="col"><i>Type</th></i>
+ <th width="10%"scope="col"><i>Description</th></i>
 
  <tr>
     <th>handler</th>
@@ -328,48 +356,21 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
     </tr>
     </table>
     
-<h2 id="itemsByPage">itemsByPage</h2>
- <table>
-
-  <table border="1" cellpadding="15" cellspacing="0" width="75%">
-                                                               
- <th width="10%"scope="col"><i><h2>Attribute</i></th></h2>
- <th width="10%"scope="col"><i><h2>Type</th></i></h2>
- <th width="10%"scope="col"><i><h2>Description</th></i></h2>
-
-
- <tr>
-    <th>displayText</th>
-    <th>string</th>
-    <th>muestra el texto de la pagina</th>
-    </tr>
-
- <tr>
-    <th>value</th>
-    <th>int</th>
-    <th>da valor a la pagina</th>
-    </tr>
-<tr>
-    <th>active</th>
-    <th>boolean</th>
-    <th>activa la pagina</th>
-    </tr>
-</table>
 
 <h2 id="rowsDefinition">rowsDefinition</h2>
 
 <table>
 <table border="1" cellpadding="15" cellspacing="0" width="75%">
        
-<th width="10%"scope="col"><i><h2>Attribute</i></th></h2>
- <th width="10%"scope="col"><i><h2>Type</th></i></h2>
- <th width="10%"scope="col"><i><h2>Description</th></i></h2>
+<th width="10%"scope="col"><i>Attribute</i></th>
+ <th width="10%"scope="col"><i>Type</th></i>
+ <th width="10%"scope="col"><i>Description</th></i>
 
  <tr>
     
  <th>stripedTable</th>
  <th>boolean</th>
- <th></th>
+ <th>permite estilo a rayas de la tabla</th>
             
  </tr>
 
