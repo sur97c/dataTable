@@ -346,7 +346,7 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
 
  <tr>
     <th>value</th>
-    <th>entirer</th>
+    <th>int</th>
     <th>da valor a la pagina</th>
     </tr>
 <tr>
@@ -356,7 +356,22 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
     </tr>
 </table>
 
+<h2 id="rowsDefinition">rowsDefinition</h2>
 
+<table>
+<table border="1" cellpadding="15" cellspacing="0" width="75%">
+       
+<th width="10%"scope="col"><i><h2>Attribute</i></th></h2>
+ <th width="10%"scope="col"><i><h2>Type</th></i></h2>
+ <th width="10%"scope="col"><i><h2>Description</th></i></h2>
+
+ <tr>
+    
+ <th>stripedTable</th>
+ <th>boolean</th>
+ <th></th>
+            
+ </tr>
 
 
 
