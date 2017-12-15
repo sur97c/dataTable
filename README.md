@@ -13,9 +13,9 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
 <table>
 <table border="1" cellpadding="15" cellspacing="0" width="75%">
        
- <th width="10%"scope="col"><i><h1>Attribute</b></i></th></h1>
- <th width="10%"scope="col">Type</th>
- <th width="10%"scope="col">Description</th>
+<th width="10%"scope="col"><i><h2>Attribute</i></th></h2>
+ <th width="10%"scope="col"><i><h2>Type</th></i></h2>
+ <th width="10%"scope="col"><i><h2>Description</th></i></h2>
 
  <tr>
     
@@ -100,9 +100,9 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
    <table border="1" cellpadding="15" cellspacing="0" width="75%">
                  
 
- <th width="10%"scope="col">Attribute</th>
- <th width="10%"scope="col">Type</th>
- <th width="10%"scope="col">Description</th>
+ <th width="10%"scope="col"><i><h2>Attribute</i></th></h2>
+ <th width="10%"scope="col"><i><h2>Type</th></i></h2>
+ <th width="10%"scope="col"><i><h2>Description</th></i></h2>
                    
 <tr>
  <th>title </th>
@@ -136,9 +136,9 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
 <table>
 <table border="1" cellpadding="15" cellspacing="0" width="75%">
        
- <th width="10%"scope="col">Attribute</th>
- <th width="10%"scope="col">Type</th>
- <th width="10%"scope="col">Description</th>
+ <th width="10%"scope="col"><i><h2>Attribute</i></th></h2>
+ <th width="10%"scope="col"><i><h2>Type</th></i></h2>
+ <th width="10%"scope="col"><i><h2>Description</th></i></h2>
 
  <tr>
  <th>show</th>
@@ -164,9 +164,9 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
  <table>
  <table border="1" cellpadding="15" cellspacing="0" width="75%">
                
- <th width="10%"scope="col">Attribute</th>
- <th width="10%"scope="col">Type</th>
- <th width="10%"scope="col">Description</th>
+<th width="10%"scope="col"><i><h2>Attribute</i></th></h2>
+ <th width="10%"scope="col"><i><h2>Type</th></i></h2>
+ <th width="10%"scope="col"><i><h2>Description</th></i></h2>
  </tr>
 
  
@@ -189,9 +189,9 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
 
   <table border="1" cellpadding="15" cellspacing="0" width="75%">
                                                                
- <th width="10%"scope="col">Attribute</th>
- <th width="10%"scope="col">Type</th>
- <th width="10%"scope="col">Description</th>
+<th width="10%"scope="col"><i><h2>Attribute</i></th></h2>
+ <th width="10%"scope="col"><i><h2>Type</th></i></h2>
+ <th width="10%"scope="col"><i><h2>Description</th></i></h2>
  <tr>
  <th>name</th>
  <th>string</th>
@@ -236,9 +236,9 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
          
  <table border="1" cellpadding="15" cellspacing="0" width="75%">
                     
- <th width="10%"scope="col">Attribute</th>
- <th width="10%"scope="col">Type</th>
- <th width="10%"scope="col">Description</th>
+ <th width="10%"scope="col"><i><h2>Attribute</i></th></h2>
+ <th width="10%"scope="col"><i><h2>Type</th></i></h2>
+ <th width="10%"scope="col"><i><h2>Description</th></i></h2>
  
   <tr> 
  <th>show</th>
@@ -317,10 +317,9 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
 
   <table border="1" cellpadding="15" cellspacing="0" width="75%">
                                                                
- <th width="10%"scope="col">Attribute</th>
- <th width="10%"scope="col">Type</th>
- <th width="10%"scope="col">Description</th>
-
+<th width="10%"scope="col"><i><h2>Attribute</i></th></h2>
+ <th width="10%"scope="col"><i><h2>Type</th></i></h2>
+ <th width="10%"scope="col"><i><h2>Description</th></i></h2>
 
  <tr>
     <th>handler</th>
@@ -334,9 +333,9 @@ The dataTable widget is a jquery plugin with a materialize style to allow build 
 
   <table border="1" cellpadding="15" cellspacing="0" width="75%">
                                                                
- <th width="10%"scope="col">Attribute</th>
- <th width="10%"scope="col">Type</th>
- <th width="10%"scope="col">Description</th>
+ <th width="10%"scope="col"><i><h2>Attribute</i></th></h2>
+ <th width="10%"scope="col"><i><h2>Type</th></i></h2>
+ <th width="10%"scope="col"><i><h2>Description</th></i></h2>
 
 
  <tr>
